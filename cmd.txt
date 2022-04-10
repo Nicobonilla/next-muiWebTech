@@ -1,0 +1,14 @@
+npx crate-next-app iconoanima
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+
+npm i @u-wave/react-vimeo
+npm install --save-dev ttf-loader file-loader
+npm install @emotion/babel-plugin
+
+npm install --save @emotion/css @emotion/server
+
+npm i react-responsive-carousel
+npm install react-scroll-parallax
+npm i react-elastic-carousel
+npm install @material-ui/core
